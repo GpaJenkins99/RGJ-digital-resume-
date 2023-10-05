@@ -11,22 +11,17 @@ resume_file = current_dir / "assets" / "RGJ Resume (2).doc"
 profile_pic = current_dir / "assets" / "profile-pic (2).png"
 
 # ----- GENERAL SETTINGS -----
-PAGE_TITLE = "Digital Resume | Adrian White Jr"
+PAGE_TITLE = "Digital Resume | Raniesa Gray-Johnson"
 PAGE_ICON = ":⛩:"
-NAME = "Adrian White Jr"
+NAME = "Raniesa Gray-Johnson"
 DESCRIPTION ="""
-US Army Soldier | Painter| Model | Aspiring software engineer 
+Retired US Army Soldier | Mother| Entrepreneur  | Cloud engineer 
 """
-EMAIL = "adrianawhitejr@gmail.com"
+EMAIL = "raniesaj@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://www.linkedin.com/in/adrian-white-jr-83b389197/",
+    "LinkedIn": "https://www.linkedin.com/in/raniesa-gray-johnson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0tMOfYS5S7SPRI8LsJiXSA%3D%3D",
     "GitHub": "https://github.com/GpaJenkins99",
 }
-PRDOJECTS = {
-    "🏆 3D Model- simulating 3D objects in python":" https://github.com/GpaJenkins99/3D-model ",
-    "🏆 ChatBox- attempt in creating ChatGBT":"https://github.com/GpaJenkins99/chatbox-",
-    "🏆 Top Down Game- voxel legend of zelda ":"https://github.com/GpaJenkins99/Top-Down-Game",
-    "🏆 Space Game- First python game ":"https://github.com/GpaJenkins99/space-game-",
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
@@ -85,9 +80,9 @@ st.write(
     """
      - Windows Server 2012/2016,- TCP/IP, - WAN,    - Java,                    - System Administration
      - Microsoft Office 365,    - DNS,    - VoIP,   - django,                  - Network Support 
-     - Cisco Router CLI,        - LAN,    - SCCM,   - Remote Access Software , - Vsphear
-     - Adobe Creative Suite,    - VPN,    - WSUS,   - Microsoft Exchange,      - VCS
-     - Active Directory,        - DHCP,   - Python, - PowerShell,              - Vrealize
+     - Cisco Router CLI,        - LAN,    - SCCM,   - Remote Access Software , - Docker
+     - Adobe Creative Suite,    - VPN,    - WSUS,   - Microsoft Exchange,      - Kubernetes
+     - Active Directory,        - DHCP,   - Python, - PowerShell,              - AWS Solutions Architect 
     """
 )
 
