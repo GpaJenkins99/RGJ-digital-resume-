@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital Resume | Raniesa Gray-Johnson"
 PAGE_ICON = ":⛩:"
 NAME = "Raniesa Gray-Johnson"
 DESCRIPTION ="""
-Retired US Army Soldier | Mother| Entrepreneur  | Cloud engineer 
+US Army Soldier| Entrepreneur  | Cloud engineer 
 """
 EMAIL = "raniesaj@gmail.com"
 SOCIAL_MEDIA = {
