@@ -22,7 +22,6 @@ SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/raniesa-gray-johnson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0tMOfYS5S7SPRI8LsJiXSA%3D%3D",
     "GitHub": "https://github.com/GpaJenkins99",
 }
-}
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
