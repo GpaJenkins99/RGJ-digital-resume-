@@ -211,8 +211,3 @@ st.write(
 )
 
 # ----- PROJECTS & ACCOMPLISHMENTS -----
-st.write("#")
-st.subheader("Projects & Accomplishments")
-st.write("---")
-for project, link in PRDOJECTS.items():
-    st.write(f"[{project}]({link})")
