@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic (2).png"
 
 # ----- GENERAL SETTINGS -----
 PAGE_TITLE = "Digital Resume | Raniesa Gray-Johnson"
-PAGE_ICON = ":⛩:"
+PAGE_ICON = ":📄:"
 NAME = "Raniesa Gray-Johnson"
 EMAIL = "raniesaj@gmail.com"
 DESCRIPTION = """ | Entrepreneur  | Cloud engineer |
