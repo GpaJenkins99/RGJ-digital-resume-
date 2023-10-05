@@ -14,9 +14,6 @@ profile_pic = current_dir / "assets" / "profile-pic (2).png"
 PAGE_TITLE = "Digital Resume | Raniesa Gray-Johnson"
 PAGE_ICON = ":⛩:"
 NAME = "Raniesa Gray-Johnson"
-DESCRIPTION ="""
-US Army Soldier| Entrepreneur  | Cloud engineer 
-"""
 EMAIL = "raniesaj@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/raniesa-gray-johnson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0tMOfYS5S7SPRI8LsJiXSA%3D%3D",
